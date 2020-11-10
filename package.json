@@ -1,0 +1,24 @@
+{
+  "name": "vuepressblog",
+  "version": "1.0.0",
+  "description": "first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "repository": "git@github.com:Colo-ring/VuePressBlog.git",
+  "author": "Coloring <1429157063@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-medium-zoom": "1.0.0-alpha.0",
+    "@vuepress/plugin-pwa": "1.0.0-alpha.3",
+    "vuepress": "1.0.3",
+    "vuepress-plugin-flowchart": "1.4.3",
+    "vuepress-theme-reco": "^1.5.7"
+  }
+}
