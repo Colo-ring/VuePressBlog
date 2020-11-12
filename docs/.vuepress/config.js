@@ -4,7 +4,7 @@ module.exports = {
   base: "/VuePressBlog/",
   title: "Coloring",
   description: 'Sleep Hard When Life Is Hard.',
-  dest: 'dist',
+  dest: 'docs/.vuepress/dist',
   theme: 'reco',
   head: [
     ['link', { rel: 'icon', href: '/head.png' }],
