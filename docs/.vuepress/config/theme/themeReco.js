@@ -1,9 +1,4 @@
 module.exports = {
-
-  themeConfig: {
-    authorAvatar: '/head.png'
-  },
-
   type: 'blog',
   // 博客设置
   blogConfig: {
@@ -21,7 +16,7 @@ module.exports = {
   // 作者
   author: 'YanJiacheng',
   // 备案号
-  record: '京ICP备17067634号-1',
+  record: '暂无备案',
   // 项目开始时间
   startYear: '2019'
 }
