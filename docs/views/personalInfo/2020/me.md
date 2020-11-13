@@ -6,9 +6,9 @@ date: 2020-11-10
 isComment: false
 sidebar: false
 categories: 
- - article
+ - personalInfo
 ---
 
 #### 我是废物
 
-####  加我微信吧：IntelliYJC
+####  微信：IntelliYJC

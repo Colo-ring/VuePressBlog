@@ -9,12 +9,14 @@
     "dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "build": "vuepress build docs",
-    "deploy": "bash deploy.sh"
+    "deploy": "bash deploy.sh",
+    "blog": "bash blog.sh"
   },
   "repository": "git@github.com:Colo-ring/VuePressBlog.git",
   "author": "Coloring <1429157063@qq.com>",
   "license": "MIT",
   "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
     "@vuepress/plugin-medium-zoom": "1.0.0-alpha.0",
     "@vuepress/plugin-pwa": "1.0.0-alpha.3",
     "vuepress": "1.0.3",
